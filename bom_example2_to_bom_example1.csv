@@ -1,5 +1,10 @@
-﻿RefDes;ComponentName;PatternName;Value
-0;Старая bom_example2.bom;>>>>>;Новая bom_example1.bom
+﻿Платы;Старая bom_example2.bom;>>>>>;Новая bom_example1.bom
+;;;
+Измененных компонентов;7;;
+Новых компонентов;0;;
+Удаленных компонентов;5;;
+;;;
+;;;
 Изменено;ComponentName;PatternName;Value
 C201;C 0805 --> C 0603;C-0805 --> 0603;2.2mkF 16V --> 2.2mkF 6V
 C202;C 0805 --> C 0603;C-0805 --> 0603;2.2mkF 16V --> 2.2mkF 6V
