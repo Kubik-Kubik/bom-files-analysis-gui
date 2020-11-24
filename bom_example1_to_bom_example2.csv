@@ -1,0 +1,26 @@
+﻿Платы;Старая bom_example1.bom;>>>>>;Новая bom_example2.bom
+;;;
+Измененных компонентов;7;;
+Новых компонентов;5;;
+Удаленных компонентов;0;;
+;;;
+;;;
+Изменено;ComponentName;PatternName;Value
+C201;C 0603 --> C 0805;0603 --> C-0805;2.2mkF 6V --> 2.2mkF 16V
+C202;C 0603 --> C 0805;0603 --> C-0805;2.2mkF 6V --> 2.2mkF 16V
+C316;C 0603 --> C 0805;0603 --> C-0805;2.2mkF 6V --> 2.2mkF 16V
+L10;SRP7028A --> SRP1265A;SRP7028A --> SRP1265A;2.2mkH SRP7050TA-2R2M --> 8.2mkH SRP1265A-8R2M
+R198;-;-;4.7k --> 2.7k
+R277;-;-;0R --> NU
+R278;-;-;0R --> NU
+;;;
+;;;
+Добавлено;ComponentName;PatternName;Value
+D20;EMIF08-1005M16;-;-
+RN24;CAT16-4;CAT16-4;0R
+RN25;CAT16-4;CAT16-4;0R
+VD31;BAV70;SOT23-G3 ;-
+VD34;TVS_SMA;SMA;P4SMAJ13ADF
+;;;
+;;;
+Удалено;ComponentName;PatternName;Value
